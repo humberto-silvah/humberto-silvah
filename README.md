@@ -5,17 +5,18 @@
 🐍 Foco em desenvolvimento com Python (Back-end e automação)  
 🚀 Experiência com Python, Django e MySQL  
 
-
 ## Tecnologias
-- [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-- [Flask](https://flask.palletsprojects.com/) (em aprendizado)
-- [MySQL](https://www.mysql.com/)
-
+<p>
+  <a href="https://www.python.org/">Python</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/">Django</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/">MySQL</a> &nbsp;&nbsp;&nbsp;
+  
+</p>
+<a href="https://flask.palletsprojects.com/">Flask </a>(em aprendizado)&nbsp;&nbsp;&nbsp;
 
 ## Projetos
-- [API ACCG](https://github.com/humberto-silvah/api-accg) — contribuição no desenvolvimento do back-end com Django REST Framework  
-- [Projeto Farma Web](https://github.com/humberto-silvah/brasil-farma-web) — sistema em desenvolvimento
+- [API ACCG](https://github.com/humberto-silvah/api-accg) — Contribuição no desenvolvimento do back-end com Django REST Framework  
+- [Projeto Farma Web](https://github.com/humberto-silvah/brasil-farma-web) — Sistema em desenvolvimento
 
 
 ## 📺 Canal
