@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Humberto 👋
 
-<!--
-**humberto-silvah/humberto-silvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Estudante de Desenvolvimento de Software  
+🐍 Foco em desenvolvimento com Python (Back-end e automação)  
+🚀 Experiência com Python, Django e MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/) (em aprendizado)
+- [MySQL](https://www.mysql.com/)
+
+
+## Projetos
+- [API ACCG](https://github.com/humberto-silvah/api-accg) — contribuição no desenvolvimento do back-end com Django REST Framework  
+- [Projeto Farma Web](https://github.com/humberto-silvah/brasil-farma-web) — sistema em desenvolvimento
+
+
+## 📺 Canal
+- YouTube: https://www.youtube.com/@humberto-silvah
+
+
+## 📫 Contatos
+- LinkedIn: [humberto-silvah](https://www.linkedin.com/in/humberto-silvah)
+- Email: humbertonoite@gmail.com
