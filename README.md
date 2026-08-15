@@ -2,7 +2,7 @@
 
 
 💻 Estudante de Desenvolvimento de Software  
-🐍 Foco em Back-end e automação com Python  
+🐍 Foco em Back-end com Python  
 🤖 Interesse em Inteligência Artificial, Machine Learning e automação inteligente  
 🚀 Experiência com Python, Django e MySQL  
 
